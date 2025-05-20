@@ -6,7 +6,7 @@ This is a project for school during grade 12 computer programming. I was asked t
 Though I was approaching the deadline, I didn't finish the project, so this is all I have for now.
 
 Video Trailer:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pUg3xVwrlh4?si=yijKjzPG0z0cQFp6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=pUg3xVwrlh4
 
 Pictures:
 ![part_1 0433](https://github.com/user-attachments/assets/4dfa4c1a-7fbe-46cb-bb6d-4a127571f38e)
