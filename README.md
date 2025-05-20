@@ -5,10 +5,11 @@ This is a project for school during grade 12 computer programming. I was asked t
 
 Though I was approaching the deadline, I didn't finish the project, so this is all I have for now.
 
-Video Trailer:
+#Video Trailer:
+
 ![(https://img.youtube.com/vi/pUg3xVwrlh4/0.jpg)](https://www.youtube.com/watch?v=pUg3xVwrlh4)
 
-Pictures:
+#Pictures:
 ![part_1 0433](https://github.com/user-attachments/assets/4dfa4c1a-7fbe-46cb-bb6d-4a127571f38e)
 
 ![part_2 0300](https://github.com/user-attachments/assets/482ef4cb-04d4-4330-a535-88c8ebb6b700)
