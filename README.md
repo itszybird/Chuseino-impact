@@ -7,7 +7,7 @@ Though I was approaching the deadline, I didn't finish the project, so this is a
 
 # Video Trailer:
 
-![UNREAL ENGINE (1)](https://github.com/user-attachments/assets/fc552ea0-b1ca-4552-a3e7-a13b42f89ccf)(https://www.youtube.com/watch?v=pUg3xVwrlh4)
+[![UNREAL ENGINE (1)](https://github.com/user-attachments/assets/fc552ea0-b1ca-4552-a3e7-a13b42f89ccf)](https://www.youtube.com/watch?v=pUg3xVwrlh4)
 
 # Pictures:
 ![part_1 0433](https://github.com/user-attachments/assets/4dfa4c1a-7fbe-46cb-bb6d-4a127571f38e)
