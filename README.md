@@ -1,6 +1,9 @@
 # Chuseino-impact
 I am working on a game that is being developed using Unreal 5.5.
 
+Soo.. ummm the Project source Files are too large to upload
+I can't put it in GitHub😵‍💫
+
 This is a project for school during grade 12 computer programming. I was asked to create an inquiry project, so I decided to make an open-world-based game, almost like Genshin Impact
 
 Though I was approaching the deadline, I didn't finish the project, so this is all I have for now.
